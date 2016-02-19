@@ -1,0 +1,24 @@
+body{
+	background-color: #fff;
+	margin: 0 auto;
+	padding: 0;
+	line-height: 2em;
+
+}
+body div.wrapper
+{
+	width: 800px;
+	margin: 0 auto;
+	padding: 10px;
+	background-color: #eee;
+}
+body span.error
+{
+	color: red;
+	font-style: bold;
+}
+body label
+{
+	width: 100px;
+	/*display: block;*/
+}
